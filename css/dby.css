@@ -1,0 +1,25 @@
+/* DBY.CSS */
+/* Stylesheet for the DBY project, as pre the main site, all items here to be typed and coded manually. */
+
+/* For personal reference . = class / # = ID */
+
+.site-background-color {
+	background-color: #3b3b3f;
+}
+
+.main {
+	color: #e4e4e4;
+}
+
+.main-header {
+	color: #e4e4e4;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 100%;
+	clear: left;
+}
+
+.title {
+	font-weight: bold;
+	text-align: center;
+}
