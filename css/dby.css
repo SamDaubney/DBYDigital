@@ -1,7 +1,20 @@
 /* DBY.CSS */
 /* Stylesheet for the DBY project, as pre the main site, all items here to be typed and coded manually. */
+/* Will look to do this slightly differently to normal, going to make the below A-Z for quick search */
 
 /* For personal reference . = class / # = ID */
+
+body {
+	margin:0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #3b3b3f;
+	text-align: left;
+	
+}
 
 .site-background-color {
 	background-color: #3b3b3f;
