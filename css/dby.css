@@ -16,6 +16,23 @@ body {
 	
 }
 
+.gallery-display {
+	img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		position: absolute;
+	}
+}
+
+.gallery-title {
+	text-align: center;
+	color: white;
+	margin: auto;
+	font-size: 2.5em;
+	mix-blend-mode: overlay;
+}
+
 .site-background-color {
 	background-color: #3b3b3f;
 }
@@ -82,6 +99,10 @@ body {
 	margin-top: 100px;
 	font-weight: bold;
 	text-align: center;
+}
+.section {
+	width: 100%;
+	position: relative;
 }
 
 
